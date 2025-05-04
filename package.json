@@ -1,6 +1,6 @@
 {
   "name": "@dancsg/date-converter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight TypeScript utility for building, validating, and formatting dates",
   "keywords": [
     "date",
