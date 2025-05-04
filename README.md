@@ -58,4 +58,4 @@ console.log(now.toLocale("de-DE", { dateStyle: "full" })); // "Samstag, 4. Mai 2
 ## 📦 Installation
 
 ```bash
-npm install date-builder
+npm install @dancsg/date-converter
